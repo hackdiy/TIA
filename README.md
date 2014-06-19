@@ -1,5 +1,5 @@
 
-==This package is deprecated. All features were transfered to www.x64dbg.com. So please have a look at this project.
+**This package is deprecated. All features were transfered to www.x64dbg.com. So please have a look at this project.**
 
 TIA
 ===
